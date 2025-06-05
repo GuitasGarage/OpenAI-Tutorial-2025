@@ -23,8 +23,8 @@ Crie um endpoint inteligente que responde automaticamente às perguntas de clien
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/samuelvictorol/OpenAI-Tutorial.git
-cd OpenAI-Tutorial
+git clone https://github.com/GuitasGarage/OpenAI-Tutorial-2025.git
+cd OpenAI-Tutorial-2025
 npm install
 
 - OpenAI API Key
@@ -33,7 +33,7 @@ npm install
 ## ⚓ Links de Referência
 - OpenAI - API KEY: https://platform.openai.com/settings/organization/api-keys
 - Assistir Videoaula: https://youtube.com
-- Repositório no GitHub: https://github.com/samuelvictorol/OpenAI-Tutorial
+- Repositório no GitHub: https://github.com/GuitasGarage/OpenAI-Tutorial-2025
 ```
 
 # ❔Como Usar
