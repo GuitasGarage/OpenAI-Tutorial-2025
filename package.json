@@ -1,0 +1,22 @@
+{
+  "name": "yt-guitas-garage-1",
+  "version": "1.0.0",
+  "description": "Tutorial como conectar com a API oficial da OpenAI.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "samuelvictorol",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "openai": "^4.100.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
