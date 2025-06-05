@@ -51,23 +51,6 @@ npm install
 
 ```bash
 {
-    "message": "Quais são os serviços oferecidos pela empresa?"
-}
-```
-> Resposta Esperada [200]
-
-```bash
-{
-  "openaiResponse": {
-    "secretariaIA": "Olá! Somos especialistas em automação e oferecemos soluções sob medida para sua empresa. 
-     Precisa de algo específico?"
-  }
-}
-```
-
-## 🔐 Formato da IA (Interno)
-```bash
-{
   "mensagemCliente": "Qual o horário de funcionamento ?",
 }
 ```
