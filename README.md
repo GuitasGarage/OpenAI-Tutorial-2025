@@ -72,7 +72,7 @@ npm install
 - [✨ Enviar Requisições HTTP](https://hoppscotch.io/)
 - [📘 Documentação oficial OpenAI](https://platform.openai.com/docs/api-reference/introduction)
 - [🎲 Tokenizer OpenAI](https://platform.openai.com/tokenizer)
-- [💻 Código-fonte no GitHub](https://github.com/samuelvictorol/OpenAI-Tutorial)
+- [💻 Código-fonte no GitHub]([https://github.com/samuelvictorol/OpenAI-Tutorial](https://github.com/GuitasGarage/OpenAI-Tutorial-2025?tab=readme-ov-file))
 
 ## 💡 Ideias de Uso
 - Chatbots para sites
