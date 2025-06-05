@@ -65,7 +65,7 @@ npm install
 ## 📽️ Videoaula
 
 - ▶️ Assista o passo a passo completo no YouTube:<br>
-[👉 Clique aqui para assistir](https://youtube.com)
+[👉 Clique aqui para assistir](https://youtu.be/c37RlGlnI2k)
 
 ## 🔗 Links úteis
 - [🔑 Obter sua API Key da OpenAI](https://platform.openai.com/api-keys)
